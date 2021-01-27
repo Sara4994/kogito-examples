@@ -1,0 +1,18 @@
+.homepage-hero-band {
+    background: linear-gradient(135deg, #085870 0%, #085870 50%, #97d4e8 100%); 
+    margin: -4rem -13rem 0 -13rem;
+}
+
+.homepage-hero-band h1 {
+    font-size: 6rem;
+    line-height: 6rem;
+}
+
+.homepage-hero-band
+.wrappper {
+    background-image: url(https://kogito.kie.org/assets/images/homepage/hero_background.svg);
+    background-repeat: repeat-x;
+    background-size: auto;
+    background-position: left;
+    padding: 6rem 13rem 8rem 13rem;
+}
